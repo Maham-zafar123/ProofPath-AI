@@ -1,0 +1,24 @@
+
+Maham Zafar
+Software Engineer
+
+SUMMARY
+Software engineer with experience in Python, FastAPI, React, MongoDB, machine learning and document AI.
+
+EDUCATION
+Bachelor's in Software Engineering, UET Taxila
+CGPA: 3.68/4.00
+
+EXPERIENCE
+Data Analyst Intern
+- Used Python, Pandas and Excel to analyze student performance data and prepare reports.
+
+PROJECTS
+DonutDoc - AI-Based Structured Document Generation
+- Built a FastAPI backend and connected it with a React frontend.
+- Worked with the Donut document understanding model.
+- Stored structured results in MongoDB.
+- Achieved approximately 95% field-level accuracy on project data.
+
+SKILLS
+Python, FastAPI, React, MongoDB, Pandas, NumPy, Machine Learning, Hugging Face, Git
